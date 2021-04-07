@@ -1,12 +1,12 @@
-### Hi there, I'm ananth - aka [ananth] 👋
+### Hi there, I'm Ananth - aka [ananth35241] 👋
 
-## I'm a Roblox Dev, Ui designer, Discord bot Developer, and student!!
+## I'm a Roblox Dev, Ui Designer, Discord Bot Developer, and Student!!
 
 - 🌱 I’m currently learning javascript 🤣
 - 🌱 I’m currently learning react.js too!
 - 👯 I’m looking to collaborate with other developers
 - ⚡ Fun fact: I love to play games
-- I Know HTML and CSS <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /><img align="right" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+- I Know HTML and CSS <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
 ### Connect with me:
 
@@ -34,7 +34,7 @@
 
 
 
-[discord]: https://linkedin.com/in/codeSTACKr
+[discord]: https://discordapp.com/users/493346803094257665#827215905111932940
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
