@@ -29,7 +29,7 @@
 
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="right" alt="Trikkstergaming's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Trikkstergaming&show_icons=true&hide_border=true" />
+  <img align="center" alt="Trikkstergaming's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Trikkstergaming&show_icons=true&hide_border=true" />
 
 
 
