@@ -3,9 +3,10 @@
 ## I'm a Roblox Dev, Ui designer, Discord bot Developer, and student!!
 
 - 🌱 I’m currently learning javascript 🤣
-- 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I love to draw and play guitar / drums
-
+- 🌱 I’m currently learning react.js too!
+- 👯 I’m looking to collaborate with other developers
+- ⚡ Fun fact: I love to play games
+- ⚡ I am a HTML [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
 
 ### Connect with me:
 
@@ -29,7 +30,7 @@
 
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="center" alt="Trikkstergaming's GitHub Stats" src="https://github-readme-stats.Trikkstergaming.vercel.app/api?username=Trikkstergaming&show_icons=true&hide_border=true" />
+  <img align="center" alt="Trikkstergaming's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Trikkstergaming&theme=radical&show_icons=true" />
 
 
 
