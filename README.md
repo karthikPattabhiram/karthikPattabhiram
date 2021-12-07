@@ -33,7 +33,7 @@
 
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="center" alt="Trikkstergaming's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Trikkstergaming&theme=radical&show_icons=true" />
+  <img align="center" alt="Voxale's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Voxale&theme=radical&show_icons=true" />
 
 
 
