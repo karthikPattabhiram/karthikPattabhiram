@@ -34,6 +34,7 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="center" alt="Voxale's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Voxale&theme=radical&show_icons=true" />
+  <img align="center" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Voxale&theme=radical" />
 
 
 
