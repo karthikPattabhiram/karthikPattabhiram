@@ -10,7 +10,7 @@
 - Adverto [Advanced advertisement bot which saves ur advertising in firebase so its easy for clients to advertise, Adverto gonna be opensourced soon]
 - Hub-Project [A Hub system that me and my friends are working on]
 - Ro Verifica [Roblox Verification bot with feature like auto verify, verification and many more!]
-- Nebula [More information on this soon]
+- Nebula [More information on this soon][cancelled]
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
