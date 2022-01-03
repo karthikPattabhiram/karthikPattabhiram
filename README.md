@@ -44,4 +44,4 @@
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ
 
-[Voxale's github commit graph](https://activity-graph.herokuapp.com/graph?username=Voxale&theme=react-dark)
+[![Voxale's github commit graph](https://activity-graph.herokuapp.com/graph?username=Voxale&theme=react-dark)](https://github.com/Voxale)
