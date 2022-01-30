@@ -31,10 +31,12 @@
 <br />
 <br />
 
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="center" alt="Voxale's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Voxale&theme=radical&show_icons=true" />
-  <img align="center" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Voxale&theme=radical" />
+## GitHub Stats
+<br>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Voxale&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Voxale&theme=radical" />
+</p>
 
 
 
