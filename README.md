@@ -33,7 +33,7 @@
 
 ## **This week I spent my time on**
 
-![Wwakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Voxale)(https://github.com/Voxale/Voxale)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Voxale)](https://github.com/Voxale/Voxale)
 
 ## GitHub Stats
 <br>
