@@ -31,7 +31,7 @@
 <br />
 <br />
 
-## **This week I spent my time on**
+## **Time spent on coding**
 
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Voxale)](https://github.com/Voxale/Voxale)
 
