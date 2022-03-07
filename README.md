@@ -1,3 +1,5 @@
+[![Discord Presence](https://lanyard.cnrad.dev/api/493346803094257665)](https://discord.com/users/493346803094257665)
+
 ### Hi there, I'm Ananth - aka [ConeTray] 👋
 
 ## I'm a Roblox Dev, UI Designer, Discord Bot Developer, and Student.
@@ -51,4 +53,4 @@
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ
 
 [![Voxale's github commit graph](https://activity-graph.herokuapp.com/graph?username=Voxale&theme=react-dark)](https://github.com/Voxale)
-[![Discord Presence](https://lanyard.cnrad.dev/api/493346803094257665)](https://discord.com/users/493346803094257665)
+
