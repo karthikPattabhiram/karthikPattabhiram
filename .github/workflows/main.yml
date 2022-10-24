@@ -17,7 +17,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: Voxale
+          user: karthikPattabhiram
           template: classic
           base: header, activity, community, repositories, metadata
           base_hireable: yes
