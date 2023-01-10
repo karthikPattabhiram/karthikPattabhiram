@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 10 users
+                            Followed by 9 users
                         </div>
                     </section>
                     <section>
@@ -187,7 +187,7 @@ Contact: Aeronic_s#5626</div>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    25.8 MB used
+                                    26 MB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2441,6 +2441,11 @@ Contact: Aeronic_s#5626</div>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-1.7, 7)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2490,7 +2495,7 @@ Contact: Aeronic_s#5626</div>
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        2.38k
+                                        2.39k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2530,7 +2535,7 @@ Contact: Aeronic_s#5626</div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        76.2k
+                                        76.3k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2665,13 +2670,8 @@ Contact: Aeronic_s#5626</div>
                             <div class="entry">
                                 <span class="value">7</span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                27
-                                <div class="bottom">Dec.</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 28
+                                <div class="bottom">Dec.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -2733,6 +2733,11 @@ Contact: Aeronic_s#5626</div>
                                 <span class="value"></span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 9
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                10
                             </div>
                         </div>
                     </section>
@@ -2742,13 +2747,8 @@ Contact: Aeronic_s#5626</div>
                             <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                27
-                                <div class="bottom">Dec.</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 28
+                                <div class="bottom">Dec.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -2810,6 +2810,11 @@ Contact: Aeronic_s#5626</div>
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 9
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                10
                             </div>
                         </div>
                     </section>
@@ -2820,11 +2825,10 @@ Contact: Aeronic_s#5626</div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    10 followers
+                    9 followers
                 </h2>
                 <div class="row">
                     <section class="people">
-                        <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHBAP/xAAvEAABAwIFAQYFBQAAAAAAAAABAgMEABEFBhITITEHFCIyUZEVFyMkgkFhcXKB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwQBAv/EABwRAAIDAQADAAAAAAAAAAAAAAABAgMREgQhUf/aAAwDAQACEQMRAD8AueUX0uYLEAUL7fSsuc83QsrsMGbHmyC/r0pitbhAFrk8iw5FL+QZqtxpu3gLA5ob2p5owtOFo25H1Q73cOWWEa134uP6H2osfPoVpOzGN0bFoU7DIkuKorblN7jVxYkfvXFt4qQC63pV6UHyhj2EYjhUKJBWRIjsAbLostFrA/zz6UReXqWTcVjr+nInYZirULLyHUOgOtxVL688A0hxs0wvgC4OMQWpkbdTIS4oXKTt26fmLf7TK4w0Oz2XI0Df2QjX+tripE94VhseSyePwFW1VpxJr7nCeoaez/HGfmC33Td7u4XW20q85ToJF/YVQMwyX14iShx5I0ji1TjJyURMJkSo7TaJbUshEgIG4AUC4v6dfc1oczLi2tX3a+tDbnWC+PZJLUf/2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYDBQcI/8QALhAAAQMDAgUBBwUAAAAAAAAAAQIDBAAFERIhBhMUMUFRIiMyYXGBkQdSYnLS/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMEAP/EAB4RAAICAgIDAAAAAAAAAAAAAAECAAMEERIhEzFB/9oADAMBAAIRAxEAPwAjrrE1KXHQy65IQcBzVstf9MfLtUdq4sNvu63GIZnSwr9uvA7dvpVzAtHRzZhfQ64twhep1O2N8AZ9KGhNzLXNktxXobSH3XHSXBjHkb+viox0ORjq6w51Ne4Z/UC2XqKFaH47qPYcbWB7B/OaYnbs0lQ5RStJGc5rnhu23J7iRudFdMhxxpvmhtI3IJ3I+gFMHENpvblzWqJDCWsDGhayFfOnBiRuDYvA6gt4mOy4/TyhyebsMK3+1Lki4Mhy3w4TJX0zR98vfmZOfIx5oFch54IccdUVaCvv595/kVHDUYsmVIa+MNlGD8OA2MbfaqrMVfDzHuT1ZTLeF+R24b4iTbWnG0FsFKtyU58ZIGPQCmhnju3uICklWP5NrSfxWFW2XIKZCVvKWl5tSyFYOk7p29NqZoM5x9krfQ04vWoalJ370Qw9IO5jlBnOxP/Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
@@ -3065,7 +3069,7 @@ Contact: Aeronic_s#5626</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="81.9558521560575 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="82.16803559206025 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3258,7 +3262,7 @@ Contact: Aeronic_s#5626</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="7.010050251256281 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="6.231155778894473 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -3295,12 +3299,12 @@ Contact: Aeronic_s#5626</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 1.09m out of 105m users</span>
+                                    <span class="gh">ranked 1.20m out of 105m users</span>
                                     <div class="value-wrapper">
-                                        <div class="value">10</div>
+                                        <div class="value">9</div>
                                     </div>
                                 </div>
-                                <div class="text">Followed by 10 users</div>
+                                <div class="text">Followed by 9 users</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -3617,7 +3621,7 @@ Contact: Aeronic_s#5626</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Jan 2023, 06:29:34 (timezone Asia/Calcutta) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 10 Jan 2023, 06:33:05 (timezone Asia/Calcutta) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
